@@ -149,3 +149,8 @@ footer a:hover::after {
     transform: scaleX(1);
     transform-origin: left;
 }
+
+footer a:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
+}
